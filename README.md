@@ -2,7 +2,6 @@
 Samurai 3D Showcase Website A visually striking website featuring a 3D rotating gallery of samurai images with modern design elements. This project combines:  3D CSS Transformations: Showcases images in an auto- transform properties  Responsive Design: Adapts seamlessly across desktop, tablet, and mobile devices. 
 # Samurai 3D Showcase Website
 
-![Website Preview](preview.jpg) *(optional - add a screenshot later)*
 
 A visually striking website featuring a 3D rotating gallery of samurai images with modern design elements.
 
@@ -18,14 +17,14 @@ A visually striking website featuring a 3D rotating gallery of samurai images wi
 ### Option 1: Simple Viewing
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/samurai-website.git
+   git clone https://github.com/Lord-Shadow-Z/3d-slider-samurai-website.git
    ```
 2. Open `index.html` in your web browser
 
 ### Option 2: Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/samurai-website.git
+   git clone https://github.com/Lord-Shadow-Z/3d-slider-samurai-website.git
    cd samurai-website
    ```
 2. Install Live Server (for local testing):
