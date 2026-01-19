@@ -49,16 +49,7 @@ samurai-website/
     └── ...
 ```
 
-## Customization
-To modify the image gallery:
-1. Replace images in the `image/` folder
-2. Update the HTML with your new image paths:
-   ```html
-   <div class="item" style="--position: 1">
-     <img src="image/your-new-image.jpg" alt="">
-   </div>
-   ```
-3. Adjust the `--quantity` value in the slider div to match your image count
+
 
 ## Technologies Used
 - HTML5
