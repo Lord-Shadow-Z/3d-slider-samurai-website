@@ -54,7 +54,7 @@ samurai-website/
 ## Technologies Used
 - HTML5
 - CSS3 (including 3D transforms and animations)
-- Responsive design principles
+- Responsive design principles.
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
